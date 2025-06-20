@@ -13,7 +13,7 @@ To train a new Voxceleb model use the Voxceleb repository
 If you need more guidance on the basics on how to utilize this repository, check out tomgoldstein which has a more in depth documentation. This repository maintains the baseline functionallity of tomgoldstein but adds some more options relevant to the master thesis.
 
 ## Strucutre
-`
+```
 ├── configs             stores configuration files that are \
 │                       passed to plot_surface.py as argument for \
 │                       --config instead of typing out all needed parameters \
@@ -26,7 +26,8 @@ If you need more guidance on the basics on how to utilize this repository, check
 │   └── model_loader
 ├── dir3
 ├── file_in_root.ext
-└── README.md`
+└── README.md
+```
 
 ├── example-directory/
 │   ├── build/
